@@ -1,4 +1,4 @@
-# A Bellabeat Case Study Using Google Sheets, SQL, and Tableau
+## A Bellabeat Case Study using Google Sheets, SQL (BigQuery), and Tableau
 
 ### Table of Contents
 1. [About Bellabeat](#about)
